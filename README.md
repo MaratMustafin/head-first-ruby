@@ -15,19 +15,19 @@ Head First Ruby
 Table of Contents
 
 Chapter 1 Code the way you want
-[ ] The Ruby philosophy
-[ ] Get Ruby
-[ ] Use Ruby
-[ ] Use Ruby—interactively
-[ ] Your first Ruby expressions
-[ ] Math operations and comparisons
-[ ] Strings
-[ ] Variables
-[ ] Everything is an object!
-[ ] Calling a method on an object
-[ ] Let’s build a game
-[ ] Input, storage, and output
-[ ] Running scripts
+[x] xhe Ruby philosophy
+[x] Get Ruby
+[x] Use Ruby
+[x] Use Ruby—interactively
+[x] Your first Ruby expressions
+[x] Math operations and comparisons
+[x] Strings
+[x] Variables
+[x] Everything is an object!
+[x] Calling a method on an object
+[x] Let’s build a game
+[x] Input, storage, and output
+[x] Running scripts
 [ ] Comments
 [ ] “puts” and “print”
 [ ] Method arguments
