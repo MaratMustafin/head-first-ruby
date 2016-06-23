@@ -28,61 +28,61 @@ Chapter 1 Code the way you want
 [x] Let’s build a game
 [x] Input, storage, and output
 [x] Running scripts
-[ ] Comments
-[ ] “puts” and “print”
-[ ] Method arguments
-[ ] “gets”
-[ ] Parentheses are optional on method calls
-[ ] String interpolation
-[ ] What’s in that string?
-[ ] Inspecting objects with the “inspect” and “p” methods
-[ ] Escape sequences in strings
-[ ] Calling “chomp” on the string object
-[ ] What methods are available on an object?
-[ ] Generating a random number
-[ ] Converting to strings
-[ ] Ruby makes working with strings easy
-[ ] Converting strings to numbers
-[ ] Conditionals
-[ ] The opposite of “if” is “unless”
-[ ] Loops
-[ ] Let’s try running our game!
-[ ] Your Ruby Toolbox
-[ ] Up Next...
+[x] Comments
+[x] “puts” and “print”
+[x] Method arguments
+[x] “gets”
+[x] Parentheses are optional on method calls
+[x] String interpolation
+[x] What’s in that string?
+[x] Inspecting objects with the “inspect” and “p” methods
+[x] Escape sequences in strings
+[x] Calling “chomp” on the string object
+[x] What methods are available on an object?
+[x] Generating a random number
+[x] Converting to strings
+[x] Ruby makes working with strings easy
+[x] Converting strings to numbers
+[x] Conditionals
+[x] The opposite of “if” is “unless”
+[x] Loops
+[x] Let’s try running our game!
+[x] Your Ruby Toolbox
+[x] Up Next...
 
 Chapter 2 Methods and Classes: Getting Organized
-[ ] Defining methods
-[ ] Calling methods you’ve defined
-[ ] Method names
-[ ] Parameters
-[ ] Optional parameters
-[ ] Return values
-[ ] Returning from a method early
-[ ] Some messy methods
-[ ] Too many arguments
-[ ] Too many “if” statements
-[ ] Designing a class
-[ ] What’s the difference between a class and an object?
-[ ] Your first class
-[ ] Creating new instances (objects)
-[ ] Breaking up our giant methods into classes
-[ ] Creating instances of our new animal classes
-[ ] Updating our class diagram with instance methods
-[ ] Our objects don’t “know” their names or ages!
-[ ] Too many arguments (again)
-[ ] Local variables live until the method ends
-[ ] Instance variables live as long as the instance does
-[ ] Encapsulation
-[ ] Attribute accessor methods
-[ ] Using accessor methods
-[ ] Attribute writers and readers
-[ ] Attribute writers and readers in action
-[ ] Ensuring data is valid with accessors
-[ ] Errors—the “emergency stop” button
-[ ] Using “raise” in our attribute writer methods
-[ ] Our complete Dog class
-[ ] Your Ruby Toolbox
-[ ] Up Next...
+[x] Defining methods
+[x] Calling methods you’ve defined
+[x] Method names
+[x] Parameters
+[x] Optional parameters
+[x] Return values
+[x] Returning from a method early
+[x] Some messy methods
+[x] Too many arguments
+[x] Too many “if” statements
+[x] Designing a class
+[x] What’s the difference between a class and an object?
+[x] Your first class
+[x] Creating new instances (objects)
+[x] Breaking up our giant methods into classes
+[x] Creating instances of our new animal classes
+[x] Updating our class diagram with instance methods
+[x] Our objects don’t “know” their names or ages!
+[x] Too many arguments (again)
+[x] Local variables live until the method ends
+[x] Instance variables live as long as the instance does
+[x] Encapsulation
+[x] Attribute accessor methods
+[x] Using accessor methods
+[x] Attribute writers and readers
+[x] Attribute writers and readers in action
+[x] Ensuring data is valid with accessors
+[x] Errors—the “emergency stop” button
+[x] Using “raise” in our attribute writer methods
+[x] Our complete Dog class
+[x] Your Ruby Toolbox
+[x] Up Next...
 
 Chapter 3 Inheritance: Relying on Your Parents
 [ ] Copy, paste... Such a waste...
