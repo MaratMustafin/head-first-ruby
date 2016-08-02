@@ -5,7 +5,7 @@ Solution Integrator Experienced - Certified by Ericsson
 
 # Head First Ruby
 
-![ebook cover](images/ebook_cover.png)
+![ebook cover](images/head-first-ruby.png)
 
 ## Table of Contents
 
